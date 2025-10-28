@@ -31,7 +31,6 @@
 *.filters
 *.res
 *.resw
-*.sln
 *.vcxitems
 *.vcxitems.filters
 Thumbs.db
