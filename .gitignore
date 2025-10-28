@@ -26,9 +26,7 @@
 *.db
 *.ipch
 *.msi
-*.vcxproj.*
-*.vcxproj
-*.filters
+
 *.res
 *.resw
 *.vcxitems
